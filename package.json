@@ -1,5 +1,5 @@
 {
-  "name": "ember-tui-editor",
+  "name": "@athlyzer/tui-editor",
   "version": "0.1.6",
   "description": "TOAST UI WYSIWYG markdown editor for Ember.",
   "keywords": [
